@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "899615006570",
+    "firebase_url": "https://applicationblog-6ce48.firebaseio.com",
+    "project_id": "applicationblog-6ce48",
+    "storage_bucket": "applicationblog-6ce48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899615006570:android:0c009deb3235fb81034f13",
+        "android_client_info": {
+          "package_name": "com.vinay.applicationblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899615006570-78586kupbglcr7n4h8ngdl1vsvec6hk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv7SgvxU6hoHkXti6Hb4-fPDsuNntZ9aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899615006570-78586kupbglcr7n4h8ngdl1vsvec6hk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
